@@ -1,4 +1,4 @@
-- 👋 Hola, soy Markcsx, un estudiante de ingeniería que programa en sus pasatiempos. Quizás acabe de iniciar en GitHub, pero iré subiendo varios códigos de proyectos en los que esté trabajando.
+- 👋 Toma todo con precaución, no me hago responsable de suspensos.
 
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Toma todo con precaución, no me hago responsable de suspensos.
+- Empezamos de cero.
 
 
 <!---
